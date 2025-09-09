@@ -6,7 +6,7 @@ BUT : prédire les temps d'attentes de 4 attractions 2h après les données du t
 
 # Canal Slack pour les questions et lien teams pour les rencontres
 
-Slack: https://join.slack.com/t/elevenxen pc/shared_invite/zt-3cy7ppuna- bzvHHY78CDeB6hvubPziWQ
+Slack: https://elevenxenpc.slack.com/join/shared_invite/zt-3cy7ppuna-bzvHHY78CDeB6hvubPziWQ#/shared-invite/email
 
 Teams: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjMyYWQ3Y2MtOWY3Mi00ZWQ4LWFjOWMtNzkwMzFmYmUyOTY4%40thread.v2/0?context=%7b%22Tid%22%3a%22a09e7a4f-8371-4911-b5dd-9ab2513335bb%22%2c%22Oid%22%3a%22124959b4-bcc1-4866-9b8e-6177dbcd85a0%22%7d  
 
